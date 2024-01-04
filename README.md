@@ -1,6 +1,4 @@
-# Day
-
-## DAY 03
+# DAY 03
 
 ### INTRODUCTION TO JAVASCRIPT API
 
